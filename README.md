@@ -118,6 +118,6 @@ jupyter notebook
 
 ## Author
 
-**YJagannati Harshavardhan**
+**Jagannati Harshavardhan**
 
 This project was completed as part of an assignment on **Exploratory Data Analysis using Python**.
