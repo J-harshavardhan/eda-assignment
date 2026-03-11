@@ -101,7 +101,7 @@ eda-assignment/
 ## How to Run the Notebook
 
 1. Clone the repository:
-git clone https://github.com/yourusername/eda-assignment.git
+https://github.com/J-harshavardhan/eda-assignment.git
 
 
 2. Navigate to the project directory:
