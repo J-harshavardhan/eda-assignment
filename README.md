@@ -92,7 +92,7 @@ Points are colored based on meal time (Lunch or Dinner), and hover labels displa
 ## Repository Structure
 eda-assignment/
 │
-├── EDA_Assignment_YourName.ipynb
+├── EDA_Assignment_Jagannati_Harshavardhan.ipynb
 └── README.md
 
 
